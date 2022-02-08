@@ -4,15 +4,11 @@
 ## Hello, __I'm Khael.__
 ***
 
-<br>
-<br>
-<br>
 
 
 ### __MY RECENT PROJECTS__
 ***
 
-<br>
 
 1. __Covid-19 Tracker__
     - Covid-19 Tracker for Philippines and Japan. Created with Covid-19 API using JavaScript.
