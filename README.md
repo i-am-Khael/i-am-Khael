@@ -1,8 +1,7 @@
 <br>
 <br>
 
-## Hello, __I'm Khael.__
-***
+## Hello, I'm Khael.
 
 
 
