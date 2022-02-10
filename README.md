@@ -15,12 +15,19 @@
 
 <br>
 
-2. __Web Components__
+2. __JS ToDoList__
+    - A JS version of ToDoList App.
+    - __[Git Repo](https://github.com/i-am-Khael/JS-ToDoList)__
+
+<br>
+
+3. __Web Components__
     - Different components for a Web App.
     - __[Git Repo](https://github.com/i-am-Khael/WebComponents)__
 
 <br>
 
-3. __To Do List App__
+
+4. __To Do List App__
     - A basic Web App created using LAMP(Linux, Apache, MySQL and PHP) Stack.
     - __[Git Repo](https://github.com/i-am-Khael/ToDoList)__
