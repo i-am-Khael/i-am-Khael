@@ -1,5 +1,4 @@
-<br>
-<br>
+
 
 ## Hello, I'm Khael.
 
@@ -13,19 +12,17 @@
     - Covid-19 Tracker for Philippines and Japan. Created with Covid-19 API using JavaScript.
     - Web Link: __[Covid-19 Tracker](https://covid19-tracker-ph.ml/)__
 
-<br>
 
-2. __JS ToDoList__
+
+2. __Frontend Mentor Challenges__
+    - __[Advice Generator App](https://i-am-khael.github.io/advice-generator-app-main/)__ | __[GIT Repo](https://github.com/i-am-Khael/FrontEndMentor-Challenges/tree/main/advice-generator-app-main)__
+    - __[Interactive Rating Component](https://i-am-khael.github.io/interactive-rating-component-main/)__ | __[GIT REPO](https://github.com/i-am-Khael/FrontEndMentor-Challenges/tree/main/interactive-rating-component-main)__
+
+
+3. __JS ToDoList__
     - A JS version of ToDoList App.
     - __[Git Repo](https://github.com/i-am-Khael/JS-ToDoList)__
 
-<br>
-
-3. __Web Components__
-    - Different components for a Web App.
-    - __[Git Repo](https://github.com/i-am-Khael/WebComponents)__
-
-<br>
 
 
 4. __To Do List App__
