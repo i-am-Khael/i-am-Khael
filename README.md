@@ -1,30 +1,23 @@
 
+# Hello there! I'm Khael, nice to meet you..
 
-## Hello, I'm Khael.
+<br/>
 
+## My Frontend Mentor __[Profile](https://frontendmentor.io/profile/i-am-Khael/)__
+#### __MY SOLUTION TO FRONTEND MENTOR CHALLENGES__
 
+- __[Bookmark Landing Page](https://www.frontendmentor.io/solutions/bookmark-landing-page-featuring-html-sassscss-and-javascript-ryUUtJa49)__
+- __[IP Address Tracker](https://www.frontendmentor.io/solutions/ip-address-tracker-feat-js-ip-geo-api-leafletjs-and-openstreetmap-Sk39psDV5)__
+- __[Advice Generator App](https://www.frontendmentor.io/solutions/advice-generator-app-using-html5-css3-and-vanilla-js-S1-ZYT7Q5)__
+- __[Time Tracking Dashboard](https://www.frontendmentor.io/solutions/time-tracking-dashboard-featuring-html5-css3-and-vanilla-js-rkG5dL2Q5)__
+- __[Pricing Component with toggle](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-featuring-html-css-and-vanilla-js-HkZY251V5)__
+- __[Testimonial Grid Section](https://www.frontendmentor.io/solutions/testimonials-grid-section-featuring-html-and-css-grid-B1gLZHeV9)__
+- __[Interactive Rating Component](https://www.frontendmentor.io/solutions/interactive-rating-component-created-with-html-css-and-js-Bki4-uEQc)__
+- __[NFT Card Preview](https://www.frontendmentor.io/solutions/nft-preview-card-component-html-and-css-SJFq9hS7q)__
 
-### __MY RECENT PROJECTS__
-***
+<br/>
 
-
-1. __Covid-19 Tracker__
-    - Covid-19 Tracker for Philippines and Japan. Created with Covid-19 API using JavaScript.
-    - Web Link: __[Covid-19 Tracker](https://covid19-tracker-ph.ml/)__
-
-
-
-2. __Frontend Mentor Challenges__
-    - __[Advice Generator App](https://i-am-khael.github.io/advice-generator-app-main/)__ | __[GIT Repo](https://github.com/i-am-Khael/FrontEndMentor-Challenges/tree/main/advice-generator-app-main)__
-    - __[Interactive Rating Component](https://i-am-khael.github.io/interactive-rating-component-main/)__ | __[GIT REPO](https://github.com/i-am-Khael/FrontEndMentor-Challenges/tree/main/interactive-rating-component-main)__
-
-
-3. __JS ToDoList__
-    - A JS version of ToDoList App.
-    - __[Git Repo](https://github.com/i-am-Khael/JS-ToDoList)__
-
-
-
-4. __To Do List App__
-    - A basic Web App created using LAMP(Linux, Apache, MySQL and PHP) Stack.
-    - __[Git Repo](https://github.com/i-am-Khael/ToDoList)__
+#### __Personal Project(s)__
+- __[Covid-19 Tracker](https://covid19-tracker-ph.ml/)__ - Created with Vanilla JS and a Free Covid-19 API.
+- __[JS To-Do-List App](https://github.com/i-am-Khael/JS-ToDoList)__ - Created with Vanilla JS.
+- __[PHP To-Do-List App](https://github.com/i-am-Khael/ToDoList)__ - Created with LAMP Stack. (Linux, Apache, MySQL and PHP)
