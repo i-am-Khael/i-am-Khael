@@ -6,6 +6,7 @@
 ## My Frontend Mentor __[Profile](https://frontendmentor.io/profile/i-am-Khael/)__
 #### __MY SOLUTION TO FRONTEND MENTOR CHALLENGES__
 
+- __[Easybank Landing Page](https://www.frontendmentor.io/solutions/easybank-landing-page-featuring-html-sass-and-javascript-HJRnEK0rq)__
 - __[Bookmark Landing Page](https://www.frontendmentor.io/solutions/bookmark-landing-page-featuring-html-sassscss-and-javascript-ryUUtJa49)__
 - __[IP Address Tracker](https://www.frontendmentor.io/solutions/ip-address-tracker-feat-js-ip-geo-api-leafletjs-and-openstreetmap-Sk39psDV5)__
 - __[Advice Generator App](https://www.frontendmentor.io/solutions/advice-generator-app-using-html5-css3-and-vanilla-js-S1-ZYT7Q5)__
