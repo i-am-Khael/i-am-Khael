@@ -23,9 +23,10 @@
 
 
 #### __Personal Project(s)__
-- __[Covid-19 Tracker](https://covid19-tracker-ph.ml/)__ - Created with Vanilla JS and a Free Covid-19 API.
-- __[JS To-Do-List App](https://github.com/i-am-Khael/JS-ToDoList)__ - Created with Vanilla JS.
-- __[PHP To-Do-List App](https://github.com/i-am-Khael/ToDoList)__ - Created with LAMP Stack. (Linux, Apache, MySQL and PHP)
+- __[Fork & Spoon](https://github.com/i-am-Khael/VueJS-ForkAndSpoon)__ - a web app created width VueJS and theMealDB API.
+- __[Fork & Spoon](https://github.com/i-am-Khael/VueJS-LookupMovies)__ - a web app created with VueJS and OMDB API.
+- __[PHP To-Do-List App](https://github.com/i-am-Khael/JS-ToDoList)__ - a web app with CRUD functionalities, created with vanilla JavaScript.
+- __[PHP To-Do-List App](https://github.com/i-am-Khael/ToDoList)__ - a web app with CRUD functionalities, created with LAMP Stack. (Linux, Apache, MySQL and PHP)
 
 
 ### My GitHub Stats
