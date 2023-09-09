@@ -25,7 +25,7 @@
 #### __Personal Project(s)__
 - __[Fork & Spoon](https://github.com/i-am-Khael/VueJS-ForkAndSpoon)__ - a web app created with VueJS and theMealDB API.
 - __[lookupMovies](https://github.com/i-am-Khael/VueJS-LookupMovies)__ - a web app created with VueJS and OMDB API.
-- __[PHP To-Do-List App](https://github.com/i-am-Khael/JS-ToDoList)__ - a web app with CRUD functionalities, created with vanilla JavaScript.
+- __[Vanilla JS To-Do-List App](https://github.com/i-am-Khael/JS-ToDoList)__ - a web app with CRUD functionalities, created with vanilla JavaScript.
 - __[PHP To-Do-List App](https://github.com/i-am-Khael/ToDoList)__ - a web app with CRUD functionalities, created with LAMP Stack. (Linux, Apache, MySQL and PHP)
 
 
