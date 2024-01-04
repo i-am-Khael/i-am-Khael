@@ -21,8 +21,3 @@
 - __[lookupMovies](https://github.com/i-am-Khael/VueJS-LookupMovies)__ - a web app created with VueJS and OMDB API.
 - __[Vanilla JS To-Do-List App](https://github.com/i-am-Khael/JS-ToDoList)__ - a web app with CRUD functionalities, created with vanilla JavaScript.
 - __[PHP To-Do-List App](https://github.com/i-am-Khael/ToDoList)__ - a web app with CRUD functionalities, created with LAMP Stack. (Linux, Apache, MySQL and PHP)
-
-
-### My GitHub Stats
-
-<a href="http://www.github.com/i-am-Khael"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-Khael&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
