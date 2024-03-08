@@ -17,6 +17,7 @@
 
 
 #### __Personal Project(s)__
+- __[TravelBlog Concept](https://github.com/i-am-Khael/travelBlog) - a simple CMS(Content Management System) based Web App.
 - __[Fork & Spoon](https://github.com/i-am-Khael/VueJS-ForkAndSpoon)__ - a web app created with VueJS and theMealDB API.
 - __[lookupMovies](https://github.com/i-am-Khael/VueJS-LookupMovies)__ - a web app created with VueJS and OMDB API.
 - __[Vanilla JS To-Do-List App](https://github.com/i-am-Khael/JS-ToDoList)__ - a web app with CRUD functionalities, created with vanilla JavaScript.
