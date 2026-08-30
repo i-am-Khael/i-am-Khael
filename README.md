@@ -17,7 +17,6 @@
 
 
 #### __Personal Project(s)__
-- [Sari Sari Store - under development](https://github.com/i-am-Khael/sari-sari-store) - a full e-commerce web app SOON.
 - __[TravelBlog Concept](https://github.com/i-am-Khael/travelBlog)__ - a simple CMS(Content Management System) based Web App.
 - __[Fork & Spoon](https://github.com/i-am-Khael/VueJS-ForkAndSpoon)__ - a simple recipe provider web app, created with VueJS integrated with theMealDB API.
 - __[lookupMovies](https://github.com/i-am-Khael/VueJS-LookupMovies)__ - a simple searh movie web app, created with VueJS integrated with OMDB API.
